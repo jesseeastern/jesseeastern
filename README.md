@@ -39,7 +39,7 @@ I'm a cybersecurity student focused on building practical skills across cloud in
 
   ### 🎯 Goals
 
-  - Earn **CompTIA Security+** certification
+  - Earn **CompTIA AI Sec+** certification
   - - Build hands-on experience in threat detection and incident response
     - - Break into a **SOC Analyst** role in cybersecurity
      
