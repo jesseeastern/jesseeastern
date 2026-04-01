@@ -2,7 +2,7 @@
 
 ### IT Professional | Infrastructure · Cloud · Cybersecurity
 
-I'm a cybersecurity student focused on building practical skills across cloud infrastructure, network security, and security operations. Currently working toward a career in SOC analysis and cyber defense.
+I'm a cybersecurity student focused on building practical skills across cloud infrastructure, network security, artificial intelligence and security operations. Currently working toward a career in SOC analysis and cyber defense.
 
 ---
 
